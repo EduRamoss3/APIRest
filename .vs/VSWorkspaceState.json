@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\APIEmpresarial",
+    "\\APIEmpresarial\\APIEmpresarial",
+    "\\APIEmpresarial\\APIEmpresarial\\Controllers"
   ],
-  "SelectedNode": "\\C:\\Users\\Eduardo\\source\\APIs",
+  "SelectedNode": "\\APIEmpresarial\\APIEmpresarial\\Controllers\\CategoriaController.cs",
   "PreviewInSolutionExplorer": false
 }
